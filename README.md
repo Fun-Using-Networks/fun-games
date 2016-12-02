@@ -7,7 +7,7 @@
 
 ## good ideas
 * game that teaches another language as you play it
-    * incremental vs total immersion
+    * incremental introductions vs total immersion
     * [logical database](https://en.wikipedia.org/wiki/Deductive_database)
     * natural langauge processing
     * linguistic puzzles that require the player to employ deductive reasoning to communicate with certain characters
