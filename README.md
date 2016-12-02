@@ -3,7 +3,7 @@
 * [Temporal Mechanics ™](https://en.wikipedia.org/wiki/Droste_effect): "Moving forwards through time." (At a snails pace.)
 * Hologames (Holo means whole/complete.)
 * Virtual/Cyber Architects
-* Indy 900°
+* [Indy 900°](https://www.reddit.com/r/skateboarding/comments/294ox5/indy_900_has_it_ever_actually_been_done/)
 
 ## good ideas
 * game that teaches another language as you play it
